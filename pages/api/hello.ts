@@ -1,4 +1,4 @@
-// Next.js API route support: https://nextjs.org/docs/api-routes/introduction
+// `pages/api/*` currently remain inside the `pages` directory
 import type { NextApiRequest, NextApiResponse } from 'next'
 
 type Data = {
